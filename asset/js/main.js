@@ -9,17 +9,19 @@ const app = new Vue({
 
 
     data: {
-        name: 'ciao',
-        surname: '',
+        nome: 'Hello Vue!',
+        immagine: 'https://unsplash.it/300/300?image',
     },
 
     methods: {}
 })
 
 
-/* v-ona
+/* 
+v-on
 v-model
-v-bind */
+v-bind 
+*/
 
 
 
